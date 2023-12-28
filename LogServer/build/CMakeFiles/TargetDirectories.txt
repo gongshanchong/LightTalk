@@ -1,0 +1,4 @@
+/home/ubuntu/code/LightTalk/LogServer/build/CMakeFiles/LogService.dir
+/home/ubuntu/code/LightTalk/LogServer/build/CMakeFiles/LogSendServer.dir
+/home/ubuntu/code/LightTalk/LogServer/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/LogServer/build/CMakeFiles/rebuild_cache.dir

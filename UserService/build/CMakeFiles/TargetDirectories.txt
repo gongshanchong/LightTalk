@@ -1,0 +1,4 @@
+/home/ubuntu/code/LightTalk/UserService/build/CMakeFiles/UserService.dir
+/home/ubuntu/code/LightTalk/UserService/build/CMakeFiles/UserServer.dir
+/home/ubuntu/code/LightTalk/UserService/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/UserService/build/CMakeFiles/rebuild_cache.dir

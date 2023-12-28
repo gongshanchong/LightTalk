@@ -1,0 +1,4 @@
+/home/ubuntu/code/LightTalk/FriendService/build/CMakeFiles/FriendService.dir
+/home/ubuntu/code/LightTalk/FriendService/build/CMakeFiles/FriendServer.dir
+/home/ubuntu/code/LightTalk/FriendService/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/FriendService/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/LogService.dir/src/proto/LogSend.pb.cc.o CMakeFiles/LogService.dir/src/proto/LogService.pb.cc.o CMakeFiles/LogService.dir/src/interface/util.cpp.o CMakeFiles/LogService.dir/src/service/main.cpp.o -o ../bin/LogService  -llightrpc -ltinyxml -lprotobuf -lzookeeper_mt -lhiredis -lmuduo_net -lmuduo_base -lpthread -lmysqlclient 

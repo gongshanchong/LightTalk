@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/LogSendServer.dir/src/proto/LogSend.pb.cc.o CMakeFiles/LogSendServer.dir/src/proto/LogService.pb.cc.o CMakeFiles/LogSendServer.dir/src/server/LogSend.cpp.o CMakeFiles/LogSendServer.dir/src/server/run.cpp.o -o ../bin/LogSendServer  -llightrpc -ltinyxml -lprotobuf -lzookeeper_mt -lhiredis -lmuduo_net -lmuduo_base -lpthread -lmysqlclient 

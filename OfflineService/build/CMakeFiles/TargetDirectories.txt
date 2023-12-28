@@ -1,0 +1,4 @@
+/home/ubuntu/code/LightTalk/OfflineService/build/CMakeFiles/OfflineService.dir
+/home/ubuntu/code/LightTalk/OfflineService/build/CMakeFiles/OfflineServer.dir
+/home/ubuntu/code/LightTalk/OfflineService/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/OfflineService/build/CMakeFiles/rebuild_cache.dir

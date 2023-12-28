@@ -1,0 +1,3 @@
+/home/ubuntu/code/LightTalk/Proxy/build/CMakeFiles/ProxyServer.dir
+/home/ubuntu/code/LightTalk/Proxy/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/Proxy/build/CMakeFiles/rebuild_cache.dir

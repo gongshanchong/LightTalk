@@ -1,0 +1,3 @@
+/home/ubuntu/code/LightTalk/ChatService/build/CMakeFiles/ChatService.dir
+/home/ubuntu/code/LightTalk/ChatService/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/ChatService/build/CMakeFiles/rebuild_cache.dir

@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <list>
 #include <memory>
-#include <mariadb/mysql.h>
+#include <mysql/mysql.h>
 #include <error.h>
 #include <string.h>
 #include <iostream>

@@ -1,0 +1,4 @@
+/home/ubuntu/code/LightTalk/GroupService/build/CMakeFiles/GroupService.dir
+/home/ubuntu/code/LightTalk/GroupService/build/CMakeFiles/GroupServer.dir
+/home/ubuntu/code/LightTalk/GroupService/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/LightTalk/GroupService/build/CMakeFiles/rebuild_cache.dir
