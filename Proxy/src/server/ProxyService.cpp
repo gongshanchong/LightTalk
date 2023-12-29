@@ -14,6 +14,7 @@ ProxyService::ProxyService(): master_("/ChatService"){
     msg_handler_map_.insert({"ReadOfflineMsg", bind(&ProxyService::ReadOfflineMsg, this, _1, _2, _3)});
     msg_handler_map_.insert({"CreateGroup", bind(&ProxyService::CreateGroup, this, _1, _2, _3)});
     msg_handler_map_.insert({"QuitGroup", bind(&ProxyService::QuitGroup, this, _1, _2, _3)});
+    msg_handler_map_.insert({"GetGroupUsers", bind(&ProxyService::GetGroupUsers, this, _1, _2, _3)});
     msg_handler_map_.insert({"AddGroup", bind(&ProxyService::AddGroup, this, _1, _2, _3)});
     msg_handler_map_.insert({"ConveyMsg", bind(&ProxyService::ConveyMsg, this, _1, _2, _3)});
     msg_handler_map_.insert({"ChatMsg", bind(&ProxyService::ChatMsg, this, _1, _2, _3)});
